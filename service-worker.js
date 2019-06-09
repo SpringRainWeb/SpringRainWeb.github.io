@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3fa293dd927885ad1b5715ebe52fc91c.js"
+  "/precache-manifest.00dfdfdc6f02d1ef3d9d3ee107437b71.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gshop-client"});
